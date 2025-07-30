@@ -109,16 +109,6 @@ dataset: "Pick-a-Pic" # Human preference dataset
 
 ---
 
-## 📖 Citation
-
-```bibtex
-@article{anonymous2024dipo,
-  title={Diffusion Implicit Policy Optimization},
-  author={Anonymous},
-  journal={Submitted to arXiv},
-  year={2024}
-}
-```
 
 ---
 
