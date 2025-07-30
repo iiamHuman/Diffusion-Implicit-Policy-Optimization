@@ -109,9 +109,6 @@ dataset: "Pick-a-Pic" # Human preference dataset
 
 ---
 
-
----
-
 ## 🙏 Acknowledgements
 
 Codebase builds upon Diffusion-DPO. Evaluated using Pick-a-Pic dataset.
