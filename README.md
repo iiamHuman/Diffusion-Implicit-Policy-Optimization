@@ -1,6 +1,6 @@
 # Diffusion Implicit Policy Optimization (DIPO)
 
-![DIPO vs Diffusion-DPO Sampling](assets/figure3.png)  
+![Sampling_result](assets/figure3.png) 
 *Figure 1: Visual comparison between DIPO (30 steps, top) and Diffusion-DPO (800 steps, bottom) - From Paper Figure 3*
 
 > **Key Breakthrough**: **10-15× sampling acceleration** while preserving generation quality and human preference alignment  
