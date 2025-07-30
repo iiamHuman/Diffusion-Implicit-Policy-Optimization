@@ -101,9 +101,9 @@ dataset: "Pick-a-Pic" # Human preference dataset
 
 | Category       | HPSv2 Win Rate | PickScore Win Rate |
 |----------------|----------------|---------------------|
-| Portrait       | 74.0% DDPO     | 50.5% DDPO          |
-| Landscape      | 68.3% DDPO     | 54.0% DIPO          |
-| Abstract Art   | 63.7% DDPO     | 51.2% DDPO          |
+| Portrait       | 74.0% DIPO     | 50.5% DIPO          |
+| Landscape      | 68.3% DIPO     | 54.0% DIPO          |
+| Abstract Art   | 63.7% DIPO     | 51.2% DIPO          |
 
 > DIPO maintains text-image consistency while DDPO excels in aesthetic preference
 
