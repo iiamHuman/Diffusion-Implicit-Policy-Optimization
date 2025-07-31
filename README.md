@@ -60,7 +60,6 @@ dataset: "Pick-a-Pic" # Human preference dataset
 - **nateraw**: `parti-prompts` dataset  
 - **hasty_sample.py**: Quickly sample and generate images and save them to the `generated_images` folder.  
 - **Ablation_experiment.py**: Study the effect of the η parameter (randomness control) in DIPO sampling on generation quality. Generate PickScore/HPSv2 scoring tables and visualizations through 50-step sampling.  
-- **compare_quality.py**: Test the efficiency and quality of different sampling configurations (DIPO 30/50/100 steps vs. Diffusion-DPO 500/800 steps). Generate comparison tables including sampling time, speedup, and PickScore/CLIP scores.  
 - **Semantic_Categories.py**: Compare generation quality of 500 steps and 30 steps for three categories (portraits, landscapes, abstract art). Analyze success rate difference using visual grids and HPSv2 metrics.  
 - **Human_Preference_compare.py**: Compare pre- and post-training models at 50 steps (DIPO) and 500 steps (Diffusion-DPO). Use HPSv2 for scoring and preference comparison. Generate bar charts and pie charts. Support multi-GPU execution.  
 - **download_models.py**: Download the required evaluation model.
