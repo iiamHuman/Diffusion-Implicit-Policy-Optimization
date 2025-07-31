@@ -56,7 +56,7 @@ dataset: "Pick-a-Pic" # Human preference dataset
 ---
 
 ## 📁 File Description
-
+- **env**: Environment configuration
 - **nateraw**: `parti-prompts` dataset  
 - **hasty_sample.py**: Quickly sample and generate images and save them to the `generated_images` folder.  
 - **Ablation_experiment.py**: Study the effect of the η parameter (randomness control) in DIPO sampling on generation quality. Generate PickScore/HPSv2 scoring tables and visualizations through 50-step sampling.  
