@@ -615,7 +615,7 @@ class DiffusionEvaluator:
             print(f"Loaded {len(plist)} prompts for category: {cat}")
 
 if __name__ == "__main__":
-    MODEL_PATH = "./tmp-sdxl-8.192e-9" 
+    MODEL_PATH = "path/to/your/model" 
     OUTPUT_DIR = "./Semantic_Categories"
     NUM_SAMPLES = 4
     DEVICES = ["cuda:4", "cuda:5"]
