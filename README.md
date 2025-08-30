@@ -5,7 +5,7 @@
 </p> 
 *Figure 1: Visual comparison between DIPO (30 steps, top) and Diffusion-DPO (800 steps, bottom) - From Paper Figure 3*
 
-> **Key Breakthrough**: **10-15× sampling acceleration** while preserving generation quality and human preference alignment  
+> **10-15× sampling acceleration** while preserving generation quality and human preference alignment  
 ✅ **No training objective modification** ✅ **Compatible with existing diffusion models** ✅ **Stochasticity control**
 
 ---
